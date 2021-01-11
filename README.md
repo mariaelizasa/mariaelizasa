@@ -3,7 +3,7 @@
 <h3> Activities: </h3>
 
 - Computer Network | [CEFET-MG](https://www.cefetmg.br/)
-- Front-End Developer | [Ouvidor Digital](https://www.cefetmg.br/)
+- Front-End Developer | [Ouvidor Digital](https://ouvidordigital.com/)
 
 <hr>
 <h3> Skills and Experiences: </h3>
