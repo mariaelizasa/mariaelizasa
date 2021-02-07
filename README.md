@@ -4,6 +4,7 @@
 
 - Computer Network | [CEFET-MG](https://www.cefetmg.br/)
 - Front-End Developer | [Ouvidor Digital](https://ouvidordigital.com/)
+- Software Engineer | [Puc Minas](https://www.pucminas.br/destaques/Paginas/default.aspx)
 
 <hr>
 <h3> Skills and Experiences: </h3>
