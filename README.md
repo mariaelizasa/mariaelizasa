@@ -19,4 +19,4 @@
 
 <hr>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mariaelizasa)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariaelizasa&show_icons=true&locale=en&layout=compact" alt="mariaelizasa" /></p>  
