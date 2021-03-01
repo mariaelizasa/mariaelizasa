@@ -17,4 +17,5 @@ Software development enthusiast, passionate about entire JavaScript ecosystem an
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width="50">](https://www.linkedin.com/in/mariaelizasa/)  
 
+<h1></h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariaelizasa&show_icons=true&locale=en&layout=compact" alt="mariaelizasa" /></p>  
