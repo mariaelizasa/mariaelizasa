@@ -1,5 +1,5 @@
 # Hi there 👋🏽, I'm Eliza
-<strong> Software development enthusiast, passionate about entire JavaScript ecosystem and it's technologies. ✨</strong>
+Software development enthusiast, passionate about entire ***JavaScript*** ecosystem and it's technologies. ✨
 
 <h2> About Me </h2>
 
