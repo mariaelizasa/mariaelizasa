@@ -1,11 +1,11 @@
 # Hi there 👋🏽, I'm Eliza
-Software development enthusiast, passionate about entire JavaScript ecosystem and it's technologies. ✨
+Software development enthusiast, passionate about entire <strong>JavaScript</strong> ecosystem and it's technologies. ✨
 
 <h2> Activities </h2>
 
-- Front-End Developer at [Ouvidor Digital](https://ouvidordigital.com/) 
-- Software Engineering Student at [Puc Minas](https://www.pucminas.br/destaques/Paginas/default.aspx)
-- Computer Network Technician by [CEFET-MG](https://www.cefetmg.br/)
+- <strong>Front-End Developer</strong> at [Ouvidor Digital](https://ouvidordigital.com/) 
+- <strong>Software Engineering Student</strong> at [Puc Minas](https://www.pucminas.br/destaques/Paginas/default.aspx)
+- <strong>Computer Network Technician</strong> by [CEFET-MG](https://www.cefetmg.br/)
 
 
 <h2> Skills and Experiences </h2>
