@@ -3,9 +3,9 @@ Software development enthusiast, passionate about entire <strong>JavaScript</str
 
 <h2> About Me </h2>
 
-- <strong>Front-End Developer</strong> at [Ouvidor Digital](https://ouvidordigital.com/) ☑️
-- <strong>Software Engineering Student</strong> at [Puc Minas](https://www.pucminas.br/destaques/Paginas/default.aspx) 📚
-- <strong>Computer Network Technician</strong> by [CEFET-MG](https://www.cefetmg.br/) 🎓
+- Front-End Developer at [Ouvidor Digital](https://ouvidordigital.com/) ☑️
+- Software Engineering Student at [Puc Minas](https://www.pucminas.br/destaques/Paginas/default.aspx) 📚
+- Computer Network Technician by [CEFET-MG](https://www.cefetmg.br/) 🎓
 
 <h2> Skills and Experiences </h2>
 
