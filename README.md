@@ -1,7 +1,7 @@
 # Hi there 👋🏽, I'm Eliza
 Software development enthusiast, passionate about entire <strong>JavaScript</strong> ecosystem and it's technologies. ✨
 
-<h2> Activities </h2>
+<h2> About Me </h2>
 
 - <strong>Front-End Developer</strong> at [Ouvidor Digital](https://ouvidordigital.com/) ☑️
 - <strong>Software Engineering Student</strong> at [Puc Minas](https://www.pucminas.br/destaques/Paginas/default.aspx) 📚
@@ -17,6 +17,5 @@ Software development enthusiast, passionate about entire <strong>JavaScript</str
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width="50">](https://www.linkedin.com/in/mariaelizasa/)  
 
 
-<hr></hr>
-
+# 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariaelizasa&show_icons=true&locale=en&layout=compact" alt="mariaelizasa" /></p>  
