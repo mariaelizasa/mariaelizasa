@@ -19,4 +19,4 @@ Front-end development enthusiast, passionate about entire ***JavaScript*** ecosy
 
 
 <hr>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariaelizasa&show_icons=true&locale=en&layout=compact" alt="mariaelizasa" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariaelizasa&show_icons=true&theme=material-palenight&locale=en&layout=compact" alt="mariaelizasa" />
