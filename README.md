@@ -16,5 +16,5 @@ Front-end development enthusiast, passionate about entire ***JavaScript*** ecosy
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mariaelizasa/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:eliza.sads@gmail.com)
 
-<h2> </h2>
+<hr> </hr>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariaelizasa&show_icons=true&locale=en&layout=compact" alt="mariaelizasa" />
