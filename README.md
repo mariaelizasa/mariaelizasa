@@ -1,9 +1,9 @@
 
-<h2> Hi there 👋🏼, I'm Eliza</h2>
+<h1> Hi there 👋🏼, I'm Eliza</h1>
 
 Front-end development enthusiast, passionate about entire ***JavaScript*** ecosystem and it's technologies. ✨
 
-<h2> About Me: </h2>
+<h2> about me: </h2>
 
 - Front-End Developer at <strong>[Ouvidor Digital](https://ouvidordigital.com/)</strong> ☑️
 - Software Engineering Student at <strong>[Puc Minas](https://www.pucminas.br/destaques/Paginas/default.aspx)</strong> 📚
