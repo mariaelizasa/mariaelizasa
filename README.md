@@ -1,4 +1,4 @@
-# Hi there 👩🏽‍💻, I'm Eliza
+# Hi there, I'm Eliza 👋
 
 Front-end development enthusiast, passionate about entire ***JavaScript*** ecosystem and it's technologies. ✨
 
