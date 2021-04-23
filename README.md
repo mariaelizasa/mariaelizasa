@@ -1,5 +1,5 @@
 
-<h1> Hi there, I'm Eliza</h1>
+<h1> Hi there, I'm Eliza 🦋</h1>
 
 Front-end development enthusiast, passionate about entire ***JavaScript*** ecosystem and it's technologies. ✨
 
