@@ -1,7 +1,7 @@
 
 <h1> Hi there 👩‍💻, I'm Eliza </h1>
 
-Front-end development enthusiast, passionate about passionate about product design. ✨
+Front-end development enthusiast, passionate about <strong>UI/UX design</strong>. ✨
 
 <h2> About me: </h2>
 
