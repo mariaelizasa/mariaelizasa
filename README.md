@@ -1,9 +1,7 @@
 
 <h1> Hi there 👩‍💻, I'm Eliza </h1>
 
-Front-end development enthusiast, passionate about <strong>UI/UX design</strong>. ✨
-
-<h2> About me: </h2>
+Software development enthusiast, passionate about <strong>UI/UX design</strong>. ✨
 
 - Front-End Developer at <strong>[Ouvidor Digital](https://ouvidordigital.com/)</strong> ☑️
 - Software Engineering Student at <strong>[Puc Minas](https://www.pucminas.br/destaques/Paginas/default.aspx)</strong> 📚
