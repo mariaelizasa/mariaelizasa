@@ -1,6 +1,8 @@
 
 <h1> Hi there 👩‍💻, I'm Eliza </h1>
 
+<img src="https://user-images.githubusercontent.com/49694866/119396560-61bae580-bcab-11eb-9b6c-f8a98d0daa66.PNG" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador"> 
+
 Software development enthusiast, passionate about <strong>UI/UX design</strong>. ✨
 
 - Front-End Developer at <strong>[Ouvidor Digital](https://ouvidordigital.com/)</strong> ☑️
