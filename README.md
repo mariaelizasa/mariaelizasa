@@ -1,9 +1,9 @@
 
 <h1> Hi there 👩‍💻, I'm Eliza </h1>
 
-<img src="https://user-images.githubusercontent.com/49694866/119396560-61bae580-bcab-11eb-9b6c-f8a98d0daa66.PNG" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador"> 
+<img src="https://user-images.githubusercontent.com/49694866/120042815-3274e300-bfe1-11eb-86a4-f3d385575187.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador"> 
 
-Software development enthusiast, passionate about <strong>UI/UX design</strong>. ✨
+Software development enthusiast, passionate about <strong>UI/UX design</strong>. ✨🌸
 
 - Front-End Developer at <strong>[Ouvidor Digital](https://ouvidordigital.com/)</strong> ☑️
 - Software Engineering Student at <strong>[Puc Minas](https://www.pucminas.br/destaques/Paginas/default.aspx)</strong> 📚
@@ -18,4 +18,4 @@ Software development enthusiast, passionate about <strong>UI/UX design</strong>.
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mariaelizasa/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:eliza.sads@gmail.com)
 
 <hr> </hr>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariaelizasa&show_icons=true&theme=dark&locale=en&layout=compact" alt="mariaelizasa" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariaelizasa&show_icons=true&theme=material-palenight&locale=en&layout=compact" alt="mariaelizasa" />
