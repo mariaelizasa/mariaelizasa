@@ -1,7 +1,7 @@
 
 <h1> Hi there 👩‍💻, I'm Eliza </h1>
 
-<img  align="right" src="https://user-images.githubusercontent.com/49694866/122600565-58bcfa00-d046-11eb-93f7-ae9bc4dd598e.png" min-width="300px" max-width="300px" width="220px" align="right" alt="Computador"> 
+<img  align="right" src="https://user-images.githubusercontent.com/49694866/122601655-febd3400-d047-11eb-8817-90f59b13aefa.png" min-width="300px" max-width="300px" width="240px" align="right" alt="Computador"> 
 
 Software development enthusiast, passionate about <strong>UI/UX design</strong>. ✨🌸
 
@@ -18,5 +18,5 @@ Software development enthusiast, passionate about <strong>UI/UX design</strong>.
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mariaelizasa/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:eliza.sads@gmail.com)
 
 <hr> </hr>
-<img align="left" height="180px"src="https://github-readme-stats.vercel.app/api?username=mariaelizasa&show_icons=true&theme=material-palenight" alt="mariaelizasa" /><img align="left" height="180px"src="https://github-readme-stats.vercel.app/api/top-langs?username=mariaelizasa&show_icons=true&theme=material-palenight&locale=en&layout=compact" alt="mariaelizasa" />
+<img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=mariaelizasa&show_icons=true&theme=material-palenight" alt="mariaelizasa" /><img align="left" height="160px"src="https://github-readme-stats.vercel.app/api/top-langs?username=mariaelizasa&show_icons=true&theme=material-palenight&locale=en&layout=compact" alt="mariaelizasa" />
 
