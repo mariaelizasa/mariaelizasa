@@ -1,7 +1,7 @@
 
 <h1> Hi there 👩‍💻, I'm Eliza </h1>
 
-<img  align="right" src="https://user-images.githubusercontent.com/49694866/122601655-febd3400-d047-11eb-8817-90f59b13aefa.png"  width="270px" align="right" alt="Computador"> 
+<!-- <img  align="right" src="https://user-images.githubusercontent.com/49694866/122601655-febd3400-d047-11eb-8817-90f59b13aefa.png"  width="270px" align="right" alt="Computador">  -->
 
 Software development enthusiast, passionate about <strong>UI/UX design</strong>. ✨🌸
 
