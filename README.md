@@ -3,11 +3,9 @@
 
 <!-- <img  align="right" src="https://user-images.githubusercontent.com/49694866/122601655-febd3400-d047-11eb-8817-90f59b13aefa.png"  width="270px" align="right" alt="Computador">  -->
 
-Software development enthusiast, passionate about <strong>UI/UX design</strong>. ✨🌸
+Software development enthusiast, passionate about JavaScript and UI/UX design. ✨
 
-
-
-- Front-End Developer at <strong>[Ouvidor Digital](https://ouvidordigital.com/)</strong> ☑️
+- Software Engineer at <strong>[Nubank](https://nubank.com.br/)</strong> 💜
 - Software Engineering Student at <strong>[Puc Minas](https://www.pucminas.br/destaques/Paginas/default.aspx)</strong> 📚
 - Computer Network Technician by <strong>[CEFET-MG](https://www.cefetmg.br/)</strong> 🎓
 
