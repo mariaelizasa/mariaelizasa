@@ -1,17 +1,22 @@
 
-<h1> Hi there 👩‍💻, I'm Eliza </h1>
+<h1> Hi there 👩‍💻, I'm Eliza! </h1>
+ 
+![Followers](https://img.shields.io/github/followers/mariaelizasa?style=social) ![visitors](https://visitor-badge.glitch.me/badge?page_id=mariaelizasa&left_color=black&right_color=pink)
 
-<!-- <img  align="right" src="https://user-images.githubusercontent.com/49694866/122601655-febd3400-d047-11eb-8817-90f59b13aefa.png"  width="270px" align="right" alt="Computador">  -->
-
-Software development enthusiast, passionate about JavaScript and UI/UX design. ✨
-
-- Software Engineer at <strong>[Nubank](https://nubank.com.br/)</strong> 💜
-- Software Engineering Student at <strong>[Puc Minas](https://www.pucminas.br/destaques/Paginas/default.aspx)</strong> 📚
-- Computer Network Technician by <strong>[CEFET-MG](https://www.cefetmg.br/)</strong> 🎓
-
+```jsx
+const AboutMe = () => {
+return (
+  <section class="section-description">
+   <h1> I work as a Software Engineer at Nubank with a focus on front-end. 💜 </h1>
+   <p> I'm Computer Networks Technician by CEFET-MG and Software Engineering Student at PUC Minas. 📚
+        Enthusiastic about development and UI design. ✨ </p>
+  <section/>
+ );
+}
+```
 <h2> Skills and Experiences: </h2>
 
-![Badge](https://img.shields.io/badge/JavaScript-%2321201F?style=for-the-badge&logo=javascript) ![Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Badge](https://img.shields.io/badge/react-%237159c1?style=for-the-badge&logo=react) ![Badge](https://img.shields.io/badge/angular-%23C3002F?style=for-the-badge&logo=angular) ![Badge](https://img.shields.io/badge/jest-%2399425B?style=for-the-badge&logo=jest) ![Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure) ![Badge](https://img.shields.io/badge/JavaScript-%2321201F?style=for-the-badge&logo=javascript)  ![Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Badge](https://img.shields.io/badge/react-%237159c1?style=for-the-badge&logo=react) ![Badge](https://img.shields.io/badge/angular-%23C3002F?style=for-the-badge&logo=angular) ![Badge](https://img.shields.io/badge/jest-%2399425B?style=for-the-badge&logo=jest) ![Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 
 <h2> Connect with me: </h2>
 
