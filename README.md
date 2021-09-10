@@ -1,7 +1,7 @@
 
 <h1> Hi there 👩‍💻, I'm Eliza! </h1>
  
-![Followers](https://img.shields.io/github/followers/mariaelizasa?style=social) ![visitors](https://visitor-badge.glitch.me/badge?page_id=mariaelizasa&left_color=black&right_color=pink)
+![Followers](https://img.shields.io/github/followers/mariaelizasa?style=social) 
 
 ```jsx
 const AboutMe = () => {
