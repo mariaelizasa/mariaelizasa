@@ -1,12 +1,12 @@
 
 <h1> Hi there 👩‍💻, I'm Eliza! </h1>
  
-![Followers](https://img.shields.io/github/followers/mariaelizasa?style=social) 
+![Followers](https://img.shields.io/github/followers/mariaelizasa?style=social) ![](https://komarev.com/ghpvc/?username=mariaelizasa&style=flat-square&color=ff69b4)
 
 ```jsx
 const AboutMe = () => {
 return (
-  <section class="section-description">
+  <section>
    <h1> I work as a Software Engineer at Nubank with a focus on front-end. 💜 </h1>
    <p> I'm Computer Networks Technician by CEFET-MG and Software Engineering Student at PUC Minas. 📚
         Enthusiastic about development and UI design. ✨ </p>
@@ -23,5 +23,5 @@ return (
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mariaelizasa/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:eliza.sads@gmail.com)
 
 <hr> </hr>
-<img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=mariaelizasa&show_icons=true&theme=material-palenight" alt="mariaelizasa" /><img align="left" height="160px"src="https://github-readme-stats.vercel.app/api/top-langs?username=mariaelizasa&show_icons=true&theme=material-palenight&locale=en&layout=compact" alt="mariaelizasa" />
+<img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=mariaelizasa&show_icons=true&theme=material-palenight" alt="mariaelizasa" /><img align="left" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariaelizasa&show_icons=true&theme=material-palenight&locale=en&layout=compact" alt="mariaelizasa" />
 
