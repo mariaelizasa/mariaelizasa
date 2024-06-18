@@ -1,26 +1,45 @@
-
 <h1> Hi there 👩‍💻, I'm Eliza! </h1>
  
 ![Followers](https://img.shields.io/github/followers/mariaelizasa?style=social) ![](https://komarev.com/ghpvc/?username=mariaelizasa&style=flat-square&color=ff69b4)
+
+<h2> A little description about me </h2>
 
 ```jsx
 const AboutMe = () => {
 return (
   <section>
-   <h1> I work as a Software Engineer at Nubank with a focus on front-end. 💜 </h1>
-   <p> I'm Computer Networks Technician by CEFET-MG and Software Engineering Student at PUC Minas. 📚
-        Enthusiastic about development and UI design. ✨ </p>
+   <p>I'm Software Engineer and I work with frontend development for 4 years,
+      I also worked at big companies like Mercado Livre and Nubank. I'm passionate about design and user interface,
+      so I intend to specialize in UI/UX.✨</p>
   <section/>
  );
 }
 ```
-<h2> Skills and Experiences: </h2>
+<h2> Here's some of the stuff I like to use: </h2>
+Frontend:
+<br></br>
+<a href="#">
+<img src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif" title="hello" width="335" height="343" align="right" alt="Hello, there!">
+</a>
 
-![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure) ![Badge](https://img.shields.io/badge/JavaScript-%2321201F?style=for-the-badge&logo=javascript)  ![Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Badge](https://img.shields.io/badge/react-%237159c1?style=for-the-badge&logo=react) ![Badge](https://img.shields.io/badge/angular-%23C3002F?style=for-the-badge&logo=angular) ![Badge](https://img.shields.io/badge/jest-%2399425B?style=for-the-badge&logo=jest) ![Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nextjs,angular,clojure,vite,jest,materialui,bootstrap,styledcomponents,sass&perline=8)](https://skillicons.dev)
+
+Backend:
+
+[![My Skills](https://skillicons.dev/icons?i=clojure,nodejs,express,aws,firebase,kafka&perline=7)](https://skillicons.dev)
+
+Mobile:
+
+[![My Skills](https://skillicons.dev/icons?i=react,flutter&perline=7)](https://skillicons.dev)
 
 <h2> Connect with me: </h2>
+<p></p>
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mariaelizasa/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:eliza.sads@gmail.com)
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mariaelizasa/)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:eliza.sads@gmail.com)
+
 
 <hr> </hr>
 <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=mariaelizasa&show_icons=true&theme=material-palenight" alt="mariaelizasa" /><img align="left" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariaelizasa&show_icons=true&theme=material-palenight&locale=en&layout=compact" alt="mariaelizasa" />
