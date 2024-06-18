@@ -21,7 +21,7 @@ return (
 Frontend:
 <br></br>
 <a href="#">
-<img src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif" title="hello" width="335" height="343" align="right" alt="Hello, there!">
+<img src="https://github.com/mariaelizasa/mariaelizasa/assets/49694866/e29c9450-dd31-4227-baf1-d1c45cca12dd" title="hello" width="300" height="250" align="right" alt="Hello, there!">
 </a>
 
 
