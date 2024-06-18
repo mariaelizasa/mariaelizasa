@@ -2,15 +2,17 @@
  
 ![Followers](https://img.shields.io/github/followers/mariaelizasa?style=social) ![](https://komarev.com/ghpvc/?username=mariaelizasa&style=flat-square&color=ff69b4)
 
-<h2> A little description about me </h2>
+<h2> A little description about me: </h2>
 
 ```jsx
 const AboutMe = () => {
 return (
   <section>
-   <p>I'm Software Engineer and I work with frontend development for 4 years,
-      I also worked at big companies like Mercado Livre and Nubank. I'm passionate about design and user interface,
-      so I intend to specialize in UI/UX.✨</p>
+   <p>I'm a Software Engineer and have been working with frontend development for 4 years. 🌸
+      I'm also a Computer Network Technician at the Federal Center for Technological Education of Minas Gerais and
+      Systems Analysis and Development student at Pontifícia Católica de Minas Gerais. 📚
+      I worked in big companies like Mercado Livre and Nubank. I'm passionate about design and user interface,
+      and I intend to specialize in UI/UX.✨</p>
   <section/>
  );
 }
