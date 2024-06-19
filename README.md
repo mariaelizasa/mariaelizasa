@@ -2,7 +2,7 @@
  
 ![Followers](https://img.shields.io/github/followers/mariaelizasa?style=social) ![](https://komarev.com/ghpvc/?username=mariaelizasa&style=flat-square&color=ff69b4)
 
-<h2> A little description about me: </h2>
+<h3> A little description about me: </h3>
 
 ```jsx
 const AboutMe = () => {
@@ -17,12 +17,14 @@ return (
  );
 }
 ```
-<h2> Here's some of the stuff I like to use: </h2>
-Frontend:
-<br></br>
+
 <a href="#">
 <img src="https://github.com/mariaelizasa/mariaelizasa/assets/49694866/e29c9450-dd31-4227-baf1-d1c45cca12dd" title="hello" width="360" height="250" align="right" alt="Hello, there!">
 </a>
+
+<h3> Here's some of the stuff I like to use: </h3>
+Frontend:
+<br></br>
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nextjs,angular,clojure,vite,jest,materialui,bootstrap,styledcomponents,sass&perline=8)](https://skillicons.dev)
@@ -35,7 +37,7 @@ Mobile:
 
 [![My Skills](https://skillicons.dev/icons?i=react,flutter&perline=7)](https://skillicons.dev)
 
-<h2> Connect with me: </h2>
+<h3> Connect with me: </h3>
 <p></p>
 
 
@@ -44,5 +46,5 @@ Mobile:
 
 
 <hr> </hr>
-<img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=mariaelizasa&show_icons=true&theme=material-palenight" alt="mariaelizasa" /><img align="left" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariaelizasa&show_icons=true&theme=material-palenight&locale=en&layout=compact" alt="mariaelizasa" />
+<img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=mariaelizasa&show_icons=true&theme=material-palenight" alt="mariaelizasa" /><img align="left" height="160px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mariaelizasa&show_icons=true&theme=material-palenight&locale=en&layout=compact" alt="mariaelizasa" />
 
