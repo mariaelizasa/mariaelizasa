@@ -19,7 +19,7 @@ return (
 ```
 
 <a href="#">
-<img src="https://github.com/mariaelizasa/mariaelizasa/assets/49694866/e29c9450-dd31-4227-baf1-d1c45cca12dd" title="hello" width="360" height="250" align="right" alt="Hello, there!">
+<img src="https://github.com/mariaelizasa/mariaelizasa/assets/49694866/e29c9450-dd31-4227-baf1-d1c45cca12dd" title="hello" width="340" height="220" align="right" alt="Hello, there!">
 </a>
 
 <h3> Here's some of the stuff I like to use: </h3>
