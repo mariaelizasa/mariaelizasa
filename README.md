@@ -1,6 +1,17 @@
 <h1> Hi there 👩‍💻, I'm Eliza! </h1>
+
  
 ![Followers](https://img.shields.io/github/followers/mariaelizasa?style=social) ![](https://komarev.com/ghpvc/?username=mariaelizasa&style=flat-square&color=ff69b4)
+
+<div style="text-align: center;">
+  <a href="#">
+    <img src="https://github.com/mariaelizasa/mariaelizasa/assets/49694866/e29c9450-dd31-4227-baf1-d1c45cca12dd"
+         title="hello"
+         width="380"
+         height="200"
+         alt="Hello, there!">
+  </a>
+</div>
 
 <h3> A little description about me: </h3>
 
@@ -17,6 +28,7 @@ return (
  );
 }
 ```
+
 <h3> Here's some of the stuff I like to use: </h3>
 Frontend:
 <br></br>
