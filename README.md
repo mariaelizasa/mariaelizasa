@@ -3,16 +3,6 @@
  
 ![Followers](https://img.shields.io/github/followers/mariaelizasa?style=social) ![](https://komarev.com/ghpvc/?username=mariaelizasa&style=flat-square&color=ff69b4)
 
-<div style="text-align: center;">
-  <a href="#">
-    <img src="https://github.com/mariaelizasa/mariaelizasa/assets/49694866/e29c9450-dd31-4227-baf1-d1c45cca12dd"
-         title="hello"
-         width="380"
-         height="200"
-         alt="Hello, there!">
-  </a>
-</div>
-
 <h3> A little description about me: </h3>
 
 ```jsx
@@ -34,7 +24,7 @@ Frontend:
 <br></br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nextjs,angular,clojure,vite,jest,materialui,bootstrap,styledcomponents,sass,figma&perline=10)](https://www.linkedin.com/in/mariaelizasa/)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nextjs,angular,clojure,vite,jest,materialui,bootstrap,styledcomponents,sass,figma)](https://www.linkedin.com/in/mariaelizasa/)
 
 Backend:
 
