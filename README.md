@@ -24,7 +24,7 @@ Frontend:
 <br></br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nextjs,angular,clojure,vite,jest,materialui,bootstrap,styledcomponents,sass,figma)](https://www.linkedin.com/in/mariaelizasa/)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nextjs,angular,clojure,vite,jest,materialui,bootstrap,styledcomponents,sass,figma&perline=7)](https://www.linkedin.com/in/mariaelizasa/)
 
 Backend:
 
